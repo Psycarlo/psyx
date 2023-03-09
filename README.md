@@ -1,1 +1,1 @@
-# Psyx Soon
+./cli/README.md
